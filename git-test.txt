@@ -2,3 +2,5 @@ git init ініціалізація репозиторія
 git status стан репозиторія
 add <filename> дабавляє файл в staging area
 GIT HUB CODDING
+>> Hell i am developer
+>> git checkout -b "new name"
